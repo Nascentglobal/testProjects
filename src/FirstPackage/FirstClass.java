@@ -20,5 +20,7 @@ public class FirstClass {
 				"C:\\Users\\Bjay\\Dropbox\\Selenuim Resources\\chromedriver_win32\\chromedriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.navigate().to("https://www.google.com");
+		
+		// use JExcel to import user name password from excel itself
 }
 }
